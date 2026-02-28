@@ -3,7 +3,7 @@ neural network gerstner
 
 ## theory
 
-we can encode any series of typographic combinations as a list of <img src="http://tex.la/x%20%5Cin%20%5B0%2C1%5D">.
+we can encode any series of typographic combinations as a list of $`x in [0, 1]`$
 
 ```
 dFontFamily, dFontWeight, bFontFamily, bFontWeight, bFontSize, dSizeMultiplier, dMargin, dIndent
